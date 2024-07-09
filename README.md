@@ -11,7 +11,7 @@ This also uses the fetch function to make API calls.
 Also, makes use of the history API to change the URL without reloading the page.
 
 How to use:
-1. Go to the website: 
+1. Go to the website: https://ottstreamer.netlify.app
 2. Search for a movie or TV show by title
 3. Click on the movie or TV show you want to watch
 4. Fill in the season and episode number if you are watching a TV show
